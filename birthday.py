@@ -5,7 +5,7 @@ from decimal import Decimal as dml
 
 print "This will simulate the 'Birthday Problem' by generating XX random"
 print "numbers between 1 and 365 (inclusively).\n"
-
+print "\n"
 #people = int(raw_input("Please enter how many random 'people' you'd like to simulate: "))
 people =45
 
