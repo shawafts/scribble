@@ -6,9 +6,11 @@ from decimal import Decimal as dml
 print "This will simulate the 'Birthday Problem' by generating XX random"
 print "numbers between 1 and 365 (inclusively).\n"
 
-people = int(raw_input("Please enter how many random 'people' you'd like to simulate: "))
+#people = int(raw_input("Please enter how many random 'people' you'd like to simulate: "))
+people =45
 
-trials = int(raw_input("Please enter how many trials you'd like to complete: "))
+#trials = int(raw_input("Please enter how many trials you'd like to complete: "))
+trials = 4
 
 matches = 0
 nomatches = 0
